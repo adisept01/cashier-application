@@ -1,0 +1,13 @@
+=== STRUK PEMBELIAN ===
+Nama Pelanggan: ida
+Tanggal/Waktu: 2024-12-15 18:49:34
+
+--- Rincian Pesanan ---
+kopi - 1 x 16000.0 = 16000.0
+
+Total: Rp 16000.00
+Diskon: Rp 1600.00
+Pajak: Rp 1584.00
+Total Akhir: Rp 15984.00
+
+Terima kasih telah berbelanja!

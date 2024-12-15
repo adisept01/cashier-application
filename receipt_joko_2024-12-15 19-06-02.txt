@@ -1,0 +1,14 @@
+=== STRUK PEMBELIAN ===
+Nama Pelanggan: joko
+Tanggal/Waktu: 2024-12-15 19:06:02
+
+--- Rincian Pesanan ---
+oden - 1 x 25000.0 = 25000.0
+kopi - 1 x 15000.0 = 15000.0
+
+Total: Rp 40000.00
+Diskon: Rp 2000.00
+Pajak: Rp 4560.00
+Total Akhir: Rp 42560.00
+
+Terima kasih telah berbelanja!

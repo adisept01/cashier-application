@@ -1,0 +1,13 @@
+=== STRUK PEMBELIAN ===
+Nama Pelanggan: ida
+Tanggal/Waktu: 2024-12-15 18:57:56
+
+--- Rincian Pesanan ---
+oden - 1 x 25000.0 = 25000.0
+
+Total: Rp 25000.00
+Diskon: Rp 1250.00
+Pajak: Rp 2850.00
+Total Akhir: Rp 26600.00
+
+Terima kasih telah berbelanja!
